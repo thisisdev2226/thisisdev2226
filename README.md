@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisisdev2226" alt="thisisdev2226" /></a> </p>
 
-- 🔭 I’m currently working on **QuickAi**
-
 - 🌱 I’m currently learning **Spring Boot, Angular**
 
-- 💬 Ask me about **Java, Python, HTML, CSS, JavaScript, LLM, GENAI, LLD**
+- 💬 Ask me about **Java, Python, HTML, CSS, JavaScript, LLM, GENAI, System Design**
 
 - 📫 How to reach me **sdev72104@gmail.com**
 
