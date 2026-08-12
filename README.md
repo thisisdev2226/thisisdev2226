@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Angular**
 
-- 💬 Ask me about **Java, Python, HTML, CSS, JavaScript, LLM, GENAI, System Design**
+- 💬 Ask me about **Java, Python, HTML, CSS, JavaScript, TypeScript, System Design**
 
 - 📫 How to reach me **sdev72104@gmail.com**
 
